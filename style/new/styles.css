@@ -1,0 +1,101 @@
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+#header {
+  color: #fff;
+  font: 16px 'OpenSansRegular', Arial, sans-serif;
+}
+
+#header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#header::after {
+  content: '';
+  display: block;
+  clear: both;
+  height: 0;
+}
+
+.header-top {
+  background: #372f50;
+  padding: 10px 0;
+  font: 14px 'OpenSansSemiBold', Arial, sans-serif;
+}
+
+.header-top .wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-top-list {
+  display: flex;
+}
+
+.header-top-list li {
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.icon-vel,
+.icon-time,
+.icon-address {
+  display: block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+}
+
+.icon-vel {
+  background: url(../../images/header/smartphone.svg) 0 0 no-repeat;
+  background-size: 16px auto;
+}
+
+.icon-time {
+  background: url(../../images/header/time.svg) 0 0 no-repeat;
+  background-size: 16px auto;
+}
+
+.icon-address {
+  background: url(../../images/header/address.svg) 0 0 no-repeat;
+  background-size: 16px auto;
+}
+
+.header-content {
+  background: url(../../images/header/bg-header.jpg) center top no-repeat;
+  background-size: 100% auto;
+}
+
+.header-content .wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0;
+  height: 240px;
+}
+
+.header-head {
+  font: 24px 'OpenSansBold', Arial, sans-serif;
+  text-shadow: 1px 1px 7px rgba(0, 0, 0, 0.55);
+}
+
+.header-head span {
+  display: block;
+}
+
+.header-head h3 {
+  font-size: 58px;
+  background: rgba(0, 0, 0, 0.18);
+  padding: 10px 25px;
+  margin-left: -25px;
+  margin-bottom: -20px;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+
+.header-search {
+  margin-top: auto;
+}

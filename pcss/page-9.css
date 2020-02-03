@@ -1,0 +1,66 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 766px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 770px; min-height: 83px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;}
+#imCellStyle_1 { position: relative; width: 740px; min-height: 73px; padding: 5px 15px 5px 15px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 5px; bottom: 5px; left: 5px; right: 5px; background-color: transparent;}
+#imCellStyleGraphicsC_1 { position: absolute; top: 35px; bottom: 35px; left: 23px; right: 23px; background: transparent url('../images/3.png') repeat center center;}
+#imCellStyleGraphicsB_1 { position: absolute; bottom: 0; left: 23px; right: 23px; height: 35px; background: transparent url('../images/3_b.png') repeat-x center bottom;}
+#imCellStyleGraphicsBL_1 { position: absolute; bottom: 0; left: 0; width: 23px; height: 35px; background: transparent url('../images/3_bl.png') repeat left bottom;}
+#imCellStyleGraphicsBR_1 { position: absolute; bottom: 0; right: 0; width: 23px; height: 35px; background: transparent url('../images/3_br.png') repeat right bottom;}
+#imCellStyleGraphicsL_1 { position: absolute; top: 35px; bottom: 35px; left: 0; width: 23px; background: transparent url('../images/3_l.png') repeat-y left center;}
+#imCellStyleGraphicsR_1 { position: absolute; top: 35px; bottom: 35px; right: 0; width: 23px; background: transparent url('../images/3_r.png') repeat-y right center;}
+#imCellStyleGraphicsT_1 { position: absolute; top: 0; left: 23px; right: 23px; height: 35px; background: transparent url('../images/3_t.png') repeat-x center top;}
+#imCellStyleGraphicsTL_1 { position: absolute; top: 0; left: 0; width: 23px; height: 35px; background: transparent url('../images/3_tl.png') repeat left top;}
+#imCellStyleGraphicsTR_1 { position: absolute; top: 0; right: 0; width: 23px; height: 35px; background: transparent url('../images/3_tr.png') repeat right top;}
+#imTextObject_1_tab0 { position: relative; line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_1_tab0 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_1_tab0 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_1_tab0 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_1_tab0 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_1_tab0 p { margin: 0; padding: 0; }
+#imTextObject_1_tab0 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_1_tab0 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_1_tab0 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_1_tab0 .imUl { text-decoration: underline; }
+#imTextObject_1_tab0 .ff0 { font-family: "Tahoma", sans-serif; }
+#imTextObject_1_tab0 .ff1 { font-family: "Palatino Linotype", serif; }
+#imTextObject_1_tab0 .ff2 { font-family: "Palatino Linotype", serif; }
+#imTextObject_1_tab0 .cf1 { color: #000000; }
+#imTextObject_1_tab0 .cf2 { color: #FFFFFF; }
+#imTextObject_1_tab0 .cf3 { color: #403000; }
+#imTextObject_1_tab0 .cf4 { color: #001040; }
+#imTextObject_1_tab0 .cf5 { color: #000000; }
+#imTextObject_1_tab0 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_1_tab0 .fs44 { vertical-align: baseline; font-size: 22pt; line-height: 36px;}
+#imTextObject_1_tab0 .cb1 { background-color: #000000; }
+#imTextObject_1_tab0 .cb2 { background-color: transparent; }
+#imTextObject_1_tab0 .cb3 { background-color: #403000; }
+#imTextObject_1_tab0 .cb4 { background-color: #001040; }
+#imTextObject_1_tab0 .cb5 { background-color: #000000; }
+#imCell_2 { display: block; position: relative; overflow: hidden; width: 774px; min-height: 3890px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_2 { position: relative; width: 768px; min-height: 3884px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_2 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imTextObject_2_tab0 { position: relative; line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_2_tab0 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_2_tab0 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_2_tab0 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_2_tab0 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_2_tab0 p { margin: 0; padding: 0; }
+#imTextObject_2_tab0 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_2_tab0 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_2_tab0 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_2_tab0 .imUl { text-decoration: underline; }
+#imTextObject_2_tab0 .ff0 { font-family: "Tahoma", sans-serif; }
+#imTextObject_2_tab0 .ff1 { font-family: "Palatino Linotype", serif; }
+#imTextObject_2_tab0 .ff2 { font-family: "Palatino Linotype", serif; }
+#imTextObject_2_tab0 .cf1 { color: #000000; }
+#imTextObject_2_tab0 .cf2 { color: #FFFFFF; }
+#imTextObject_2_tab0 .cf3 { color: #403000; }
+#imTextObject_2_tab0 .cf4 { color: #001040; }
+#imTextObject_2_tab0 .cf5 { color: #000000; }
+#imTextObject_2_tab0 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_2_tab0 .fs32 { vertical-align: baseline; font-size: 16pt; line-height: 28px;}
+#imTextObject_2_tab0 .cb1 { background-color: #000000; }
+#imTextObject_2_tab0 .cb2 { background-color: transparent; }
+#imTextObject_2_tab0 .cb3 { background-color: #403000; }
+#imTextObject_2_tab0 .cb4 { background-color: #001040; }
+#imTextObject_2_tab0 .cb5 { background-color: #000000; }

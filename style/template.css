@@ -1,0 +1,12 @@
+html {position: relative; margin: 0; padding: 0; background-color: transparent; background-image: url('bg.jpg'); background-position: left top; background-repeat: repeat-x; background-attachment: scroll;}
+body {margin: 0; padding: 0; text-align: left;}
+#imPage {margin: 0px auto 0px auto; width: 960px; position: relative;}
+#imHeaderBg {display: none;position: absolute; left: 0; top: 0; height: 165px; width: 100%; background-color: transparent;}
+#imHeader {height: 473px; background-color: transparent; background-image: url('top.jpg'); background-position: top left; background-repeat: no-repeat;}
+#imMnMn {float: left;  width: 120px; padding: 5px 5px 5px 5px;}
+#imMnMn > ul { text-align: left; }
+#imMnMnGraphics { position: absolute; top: 473px; bottom: 240px; left: 0; width: 130px; background-color: transparent; background-image: url('menu.jpg'); background-position: left top; background-repeat: repeat-y;}
+#imContent {min-height: 380px; position: relative; width: 780px; padding: 5px 5px 5px 45px; margin-left: 130px; }
+#imContentGraphics {min-height: 380px; position: absolute; top: 473px; bottom: 240px; right: 0; width: 830px; background-color: transparent; background-image: url('content.jpg'); background-position: right top; background-repeat: repeat-y;}
+#imFooterBg {display: none;position: absolute; left: 0; bottom: 0; height: 240px; width: 100%; background-color: transparent; background-image: url('bottombg.jpg'); background-position: left top; background-repeat: repeat;}
+#imFooter {position: relative; margin: 0 auto; height: 240px; width: 960px; background-color: transparent; background-image: url('bottom.png'); background-position: top left; background-repeat: no-repeat;}
